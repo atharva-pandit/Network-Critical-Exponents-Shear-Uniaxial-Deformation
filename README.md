@@ -1,5 +1,5 @@
 ## README
-This repository contains codes for simulations of 2D disordered fibre networks, presented in the paper "**Strain-stiffening critical exponents of fiber networks under uniaxial deformation**".
+This repository contains codes for simulations of 2D disordered fiber networks, presented in the paper "**Strain-stiffening critical exponents of fiber networks under uniaxial deformation**".
 
 ## Dependencies
 * C++20 or higher
@@ -21,11 +21,11 @@ This repository contains codes for simulations of 2D disordered fibre networks, 
 Contact: atharva.pandit@uni-a.de
 
 ## Version History
-* 0.1
+* 1.0.0
     * Initial Release
 
 ## License
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details.
 
 ## Acknowledgments
 I would like to acknowledge you for bothering to read this far.
