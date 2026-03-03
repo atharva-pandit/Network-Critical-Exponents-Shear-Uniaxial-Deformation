@@ -17,7 +17,7 @@ This repository contains codes for simulations of 2D disordered fibre networks, 
 * **slide.ipynb** - Plot data & determine critical exponents.
 
 ## Author
-**Atharva Pandit**
+**Atharva Pandit**\
 Contact: atharva.pandit@uni-a.de
 
 ## Version History
