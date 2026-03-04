@@ -14,7 +14,7 @@ This repository contains codes for simulations of 2D disordered fiber networks, 
 * **read_write.hpp** - Read/write intermediate states or LAMMPS compatible input/dump files for visualisation.
 * **minimise.hpp** - Energy minimisation, MD integration & stress calculation.
 * **minimise_spring.hpp** - Same as minimise.hpp, but without bending interactions.
-* **slide.ipynb** - Plot data & determine critical exponents.
+* **plot.ipynb** - Plot data & determine critical exponents.
 
 ## Author
 **Atharva Pandit**\
