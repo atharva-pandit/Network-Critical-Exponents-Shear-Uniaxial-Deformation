@@ -1,5 +1,7 @@
 ## README
-This repository contains codes for simulations of 2D disordered fiber networks, presented in the paper "**Strain-stiffening critical exponents of fiber networks under uniaxial deformation**".
+This repository contains codes for simulations of 2D disordered fiber networks, published in the paper:
+"**Strain-stiffening critical exponents of fiber networks under uniaxial deformation**", Phys. Rev. E 114, 025413 – Published 18 August, 2026.
+DOI: https://doi.org/10.1103/wwmz-yzvj
 
 ## Dependencies
 * C++20 or higher
